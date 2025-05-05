@@ -71,7 +71,8 @@ This project demonstrates how to go from raw medical data to a fully deployed ma
 - Deploy using a cloud-based solution (e.g., Heroku, AWS Lambda)
 
 ## Contributors
-- MICHAEL BOND © 2025
+- MIT License
+- © 2025 Michael Bond / BondInc
   - bondpapi@yahoo.com
   - https://github.com/bondpapi
   - https://www.hackerrank.com/profile/bondpapi
